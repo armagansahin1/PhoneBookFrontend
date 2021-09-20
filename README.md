@@ -2,6 +2,16 @@
 <h2 align="center">PhoneBook-Frontend</h2>
 <p align="center">Frontend of <a href="https://github.com/armagansahin1/PhoneBookBackend">PhoneBookProject</a> with Angular.</p>
 
+## Built With
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/)
+
+## About The Project
+<a href="https://ibb.co/H2x8Xf2"><img src="https://i.ibb.co/hMZzCJM/UsStyle.png" alt="UsStyle" border="0"></a>
+
+## Usage
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
