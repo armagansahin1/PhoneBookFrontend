@@ -9,7 +9,9 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/)
 
 ## About The Project
+<div align="center">
 <a href="https://ibb.co/H2x8Xf2"><img src="https://i.ibb.co/hMZzCJM/UsStyle.png" alt="UsStyle" border="0"></a>
+ </div>
 
 ## Usage
 ## Development server
