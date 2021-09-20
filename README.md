@@ -11,6 +11,8 @@
 ## About The Project
 <div align="center">
 <a href="https://ibb.co/H2x8Xf2"><img src="https://i.ibb.co/hMZzCJM/UsStyle.png" alt="UsStyle" border="0"></a>
+<a href="https://ibb.co/GdDcxP7"><img src="https://i.ibb.co/vcWZwz1/Normal-Style.png" alt="Normal-Style" border="0"></a>
+ <a href="https://ibb.co/N247dmz"><img src="https://i.ibb.co/r2WvRcJ/Add.png" alt="Add" border="0"></a>
  </div>
 
 ## Usage
