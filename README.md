@@ -1,6 +1,6 @@
 # PhoneBookFrontend
 <h2 align="center">PhoneBook-Frontend</h2>
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
+Frontend of <a href="https://github.com/armagansahin1/PhoneBookBackend">PhoneBookProject</a> with Angular.
 
 ## Development server
 
