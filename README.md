@@ -1,4 +1,4 @@
-# PhoneBookFrontend
+
 <h2 align="center">PhoneBook-Frontend</h2>
 <p align="center">Frontend of <a href="https://github.com/armagansahin1/PhoneBookBackend">PhoneBookProject</a> with Angular.</p>
 
@@ -13,7 +13,9 @@
 <a href="https://ibb.co/H2x8Xf2"><img src="https://i.ibb.co/hMZzCJM/UsStyle.png" alt="UsStyle" border="0"></a>
 <a href="https://ibb.co/GdDcxP7"><img src="https://i.ibb.co/vcWZwz1/Normal-Style.png" alt="Normal-Style" border="0"></a>
  <a href="https://ibb.co/N247dmz"><img src="https://i.ibb.co/r2WvRcJ/Add.png" alt="Add" border="0"></a>
+  <a href="https://ibb.co/VxCbwmq"><img src="https://i.ibb.co/m0ydN8c/delete.png" alt="delete" border="0"></a>
  </div>
+ 
 
 ## Usage
 ## Development server
