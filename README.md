@@ -1,6 +1,6 @@
 # PhoneBookFrontend
 <h2 align="center">PhoneBook-Frontend</h2>
-Frontend of <a href="https://github.com/armagansahin1/PhoneBookBackend">PhoneBookProject</a> with Angular.
+<p align="center">Frontend of <a href="https://github.com/armagansahin1/PhoneBookBackend">PhoneBookProject</a> with Angular.</p>
 
 ## Development server
 
