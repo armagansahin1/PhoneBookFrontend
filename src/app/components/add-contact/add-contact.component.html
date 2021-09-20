@@ -1,0 +1,48 @@
+<form [formGroup]="userAddForm">
+    <div class="container mt-4">
+    
+        <div class="border-bottom mb-3"><p class="fs-3 mb-3">Create New Contact</p></div>
+    
+        <div class="row">
+            <div class="col-md-6">
+                <label for="firstName" class="form-label">First name</label>
+                <input type="text" class="form-control" id="firstName" formControlName="firstName" placeholder="First name">    
+            </div>
+    
+            <div class="col-md-6">
+                <label for="lastName" class="form-label">Last name</label>
+                <input type="text" class="form-control" id="lastName" formControlName="lastName" placeholder="Last name">
+            </div>
+        </div>
+    
+        <div class="row mt-3 mb-3">
+            <div class="col-md-6">
+                <label for="phoneNumber" class="form-label">Phone Number</label>
+                <input type="number" class="form-control" id="phoneNumber" formControlName="phoneNumber" placeholder="Phone Number">
+            </div>
+    
+            <div class="col-md-6 mt-3 ">
+                <label for="genderRadio" class="form-label">Gender</label>
+                <div id="genderRadio">
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" formControlName="gender"  type="radio" name="gender" id="radioMan"  value="Man">
+                        <label class="form-check-label" for="radioMan">Man</label>
+                      </div>
+                      <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" formControlName="gender" name="gender" id="radioWoman"  value="Woman">
+                        <label class="form-check-label" for="radioWoman">Woman</label>
+                      </div>
+                </div>
+            </div>
+    
+        </div>
+    
+        <div class="d-flex flex-row-reverse border-top">
+            <div class="btn-group mt-4" role="group" aria-label="Basic example">
+                <button type="button" class="btn btn-light">Cancel</button>
+                <button type="button" class="btn btn-primary" (click)="add()">Save Contact</button>
+              </div>
+        </div>
+    </div>
+    
+</form>

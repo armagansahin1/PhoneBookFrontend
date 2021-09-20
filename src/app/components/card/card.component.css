@@ -1,0 +1,14 @@
+.col:hover{
+    cursor: pointer;
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
+.col:focus-within{
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
+.box{
+    height: 5px;
+    width: 100%;
+    background-color: blue;
+}

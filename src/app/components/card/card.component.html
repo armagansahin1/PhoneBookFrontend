@@ -1,0 +1,17 @@
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col user-card" *ngFor="let user of users" (click) = "getUserId(user.id)">
+
+      <div class = "box" *ngIf="setSelectedUserDiv(user.id)">
+        
+      </div>
+
+      <div class="card mt-4">
+        <img src={{user.imagePath}} class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{user.fullName | nameStyle:usStyleControl()}}</h5>
+          <p class="card-text">{{user.phoneNumber}}</p>
+        </div>
+      </div>
+    </div>
+ </div>
